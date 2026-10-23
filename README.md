@@ -38,7 +38,7 @@ Hey! I'm **Najair**, aka **DoomWave**. ☢️
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="assets/v1-basketball.gif" width="280" alt="ULTRAKILL V1 playing basketball" />
+<img src="assets/v1-basketball.gif" width="280" alt="V1 playing basketball" />
 
 <sub><i>me after fixing one bug and creating twelve more</i></sub>
 
