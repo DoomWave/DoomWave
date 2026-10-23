@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050b05,100:10200e&height=180&section=header&text=DOOMWAVE.exe&fontSize=48&fontColor=7CFF6B&fontAlignY=38&animation=fadeIn&desc=NAJAIR%20%2F%2F%20TERMINAL%20ONLINE&descAlignY=66&descSize=19&descColor=9EFF8D" alt="DoomWave retro green terminal header" />
@@ -26,8 +27,10 @@ ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL
 
 Hey! I'm **Najair**, aka **DoomWave**. ☢️
 
-- 🎓 Computer Science student exploring **cybersecurity**
+- 🎓 Majoring in **Computer Science & Mathematics**
+- 🔐 Exploring **cybersecurity**
 - 🧠 Grinding **data structures & algorithms**
+- 📚 Currently learning **pydytusdays**
 - 💻 Coding in **Python, Java, and JavaScript**
 - 🔧 Break code. Fix code. Pretend it was intentional.
 - ⚡ **+PARRY** incoming compiler errors
