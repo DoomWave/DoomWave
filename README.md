@@ -25,7 +25,7 @@ ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL
 
 ### `> whoami`
 
-Hey! I'm **Najair**, aka **Quick Volt**. ⚡
+Hey! I'm **Najair**, aka **DoomWave**. ⚡
 
 - 🎓 Majoring in **Computer Science & Mathematics**
 - 🔐 Exploring **cybersecurity**
